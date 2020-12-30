@@ -8,6 +8,12 @@ wp-content/*
 !wp-content/plugins/
 !wp-content/themes/
 
+logs/
+conf/
+
+app/
+!app/p2/
+
 # ignore these plugins
 wp-content/plugins/hello.php
 
